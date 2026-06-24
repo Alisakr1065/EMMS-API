@@ -17,6 +17,8 @@ namespace Business.Services
 
         public Task<List<FaultListDTO>> GetAllFaultsAsync()
         {
+
+            //the implementation of this method should retrieve all faults from the data source and return them as a list of FaultListDTO objects.
             throw new NotImplementedException();
         }
 
