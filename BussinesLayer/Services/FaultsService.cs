@@ -24,6 +24,7 @@ namespace Business.Services
 
         public Task<FaultDetailsDTO> GetFaultByIdAsync(int id)
         {
+            //the implementation of this method should retrieve a specific fault by its ID from the data source and return it as a FaultDetailsDTO object.
             throw new NotImplementedException();
         }
 
