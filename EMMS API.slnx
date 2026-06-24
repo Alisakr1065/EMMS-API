@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BussinesLayer/Business.csproj" />
+  <Project Path="DataAccessLayer/Data.csproj" />
+  <Project Path="EMMS/EMMS API.csproj" />
+  <Project Path="Models/Models.csproj" Id="23d37b0a-b56b-45e3-9b60-a95e005e0e4a" />
+</Solution>
